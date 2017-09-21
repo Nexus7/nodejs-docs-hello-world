@@ -1,4 +1,4 @@
-[Build Status](http://127.0.0.1:8080/job/HelloWorld/badge/icon)
+[Build Status](https://otojenkins.otonomos.com/job/HelloWorld/badge/icon)
 
 # Node.js Hello World
 
