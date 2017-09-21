@@ -1,4 +1,8 @@
-[Build Status](https://otojenkins.southeastasia.cloudapp.azure.com/job/HelloWorld/badge/icon)
+[Build Status](http://otojenkins.southeastasia.cloudapp.azure.com/job/HelloWorld/badge/icon)
+
+
+[![Build Status](http://otojenkins.southeastasia.cloudapp.azure.com/job/HelloWorld/badge/icon)](http://127.0.0.1:8080/job/HelloWorld/)
+
 
 # Node.js Hello World
 
