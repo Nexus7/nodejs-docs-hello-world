@@ -1,3 +1,5 @@
+[![Build Status](http://127.0.0.1:8080/buildStatus/icon?job=HelloWorld)](http://127.0.0.1:8080/job/HelloWorld)
+
 # Node.js Hello World
 
 This sample demonstrates a tiny Hello World node.js app for [App Service Web App](https://docs.microsoft.com/azure/app-service-web).
