@@ -1,4 +1,4 @@
-[![Build Status](http://127.0.0.1:8080/job/HelloWorld/badge/icon)](http://127.0.0.1:8080/job/HelloWorld/)
+[Build Status](http://127.0.0.1:8080/job/HelloWorld/badge/icon)
 
 # Node.js Hello World
 
