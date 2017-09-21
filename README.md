@@ -1,4 +1,4 @@
-[![Build Status](http://127.0.0.1:8080/buildStatus/icon?job=HelloWorld)](http://127.0.0.1:8080/job/HelloWorld)
+[![Build Status](http://otojenkins.southeastasia.cloudapp.azure.com:8080/buildStatus/icon?job=HelloWorld)](http://127.0.0.1:8080/job/HelloWorld)
 
 # Node.js Hello World
 
