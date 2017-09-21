@@ -1,4 +1,4 @@
-[Build Status](http://otojenkins.southeastasia.cloudapp.azure.com/job/HelloWorld/badge/icon)
+[Build Status](https://otojenkins.southeastasia.cloudapp.azure.com/job/HelloWorld/badge/icon)
 
 # Node.js Hello World
 
